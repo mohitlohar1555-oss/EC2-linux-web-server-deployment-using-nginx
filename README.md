@@ -1,4 +1,5 @@
 # 🚀 EC2 Linux Nginx Web Server Deployment
+# Mohit Gadilohar 
 
 ## 🌐 What is Nginx?
 
